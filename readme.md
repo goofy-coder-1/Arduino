@@ -29,7 +29,7 @@ An interactive, breadboard-free Arduino project featuring real-time distance tra
 ### Live Serial Plotter Waveform
 *(Place your Serial Plotter screenshot here inside an `assets/` folder in your repository)*
 ```text
-[ Insert Serial Plotter Screenshot / Waveform Preview Here ]
+<img width="1158" height="626" alt="Image" src="https://github.com/user-attachments/assets/609dbe31-48dc-4c24-9d36-6632e9b20846" />
 ```
 
 ###  Hardware Setup
