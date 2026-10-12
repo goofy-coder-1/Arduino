@@ -1,8 +1,8 @@
-# Arduino Proximity Alarm & Sonar Tracker 🚀🚨
+# Arduino Proximity Alarm & Sonar Tracker
 
 An interactive, breadboard-free Arduino project featuring real-time distance tracking using an HC-SR04 ultrasonic sensor, live waveform visualization, and synchronized acoustic-visual feedback.
 
-## 📌 Features
+## Features
 - **Breadboard-Free Design:** Direct-pin prototyping using flexible jumper wires.
 - **Live Sonar Ranging:** Measures distances via the HC-SR04 ultrasonic sensor at a steady 1-second cadence.
 - **Synchronized Feedback:** Buzzer and Red LED wired in parallel on a single digital pin for simultaneous audio/visual cues.
@@ -11,7 +11,7 @@ An interactive, breadboard-free Arduino project featuring real-time distance tra
 
 ---
 
-## 🔌 Circuit Pinout Configuration
+## Circuit Pinout Configuration
 
 | Component | Component Pin | Arduino Pin / Header |
 | :--- | :--- | :--- |
@@ -24,23 +24,22 @@ An interactive, breadboard-free Arduino project featuring real-time distance tra
 
 ---
 
-## 📸 Media & Visuals
+## Media & Visuals
 
-### 📊 Live Serial Plotter Waveform
+### Live Serial Plotter Waveform
 *(Place your Serial Plotter screenshot here inside an `assets/` folder in your repository)*
 ```text
 [ Insert Serial Plotter Screenshot / Waveform Preview Here ]
 ```
 
-### 🛠️ Hardware Setup
-*(Place a photo of your direct-pin Arduino setup here)*
+###  Hardware Setup
 ```text
 [ Insert Hardware / Wiring Photo Here ]
 ```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 1. Connect your hardware according to the pinout table above.
 2. Open the `proximity_alarm.ino` file in the Arduino IDE.
 3. Upload the code to your Arduino Uno or Nano.
